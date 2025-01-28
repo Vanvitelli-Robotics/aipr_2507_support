@@ -9,7 +9,7 @@ def generate_launch_description():
 
     ld = LaunchDescription()
 
-    this_package = FindPackageShare('aipr_2501_support')
+    this_package = FindPackageShare('aipr_2501b_support')
     rviz_config_path = PathJoinSubstitution(
         [this_package, 'launch', 'sim.rviz'])
     

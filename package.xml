@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>aipr_2501_support</name>
+  <name>aipr_2501b_support</name>
   <version>1.0.0</version>
-  <description>Support for AIPR 2501</description>
+  <description>Support for AIPR 2501b</description>
   <maintainer email="marco.costanzo@unicampania.it">Marco Costanzo</maintainer>
   <license>GPLv3</license>
 
